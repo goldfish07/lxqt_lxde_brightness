@@ -1,0 +1,1 @@
+# lxqt_lxde_brightness
